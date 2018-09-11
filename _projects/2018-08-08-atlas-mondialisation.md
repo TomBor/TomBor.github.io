@@ -1,8 +1,8 @@
 ---
 title: 'Atlas de la mondialisation 2013'
 subtitle: 'Atlas, print'
-date: 2018-08-07 00:00:00
-featured_image: '/images/projects/ceriscope-2.jpg'
+date: 2018-08-08 00:00:00
+featured_image: '/images/projects/atlas-couv.png'
 ---
 
 Conçu par trois cartographes, une géographe et deux politistes. Il est le fruit d’un travail d’équipe autour du cours Espace mondial, l’un des enseignements phares du Collège de Sciences Po.
