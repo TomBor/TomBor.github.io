@@ -1,6 +1,6 @@
 ---
 title: 'Temps libre'
-subtitle: 'Tool'
+subtitle: ''
 date: 2018-08-17 00:00:00
 featured_image: '/images/projects/redbubble-2.png'
 ---

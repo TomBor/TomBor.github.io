@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Khartis'
       url: 'http://www.sciencespo.fr/cartographie/khartis/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Contact'
+      url: '/contact'
 
 footer_settings:
   logo_image:
@@ -50,7 +50,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'www.linkedin.com/in/thomas-ansart-82558b16b'
 
 color_settings:
   background_color: '#ffffff'

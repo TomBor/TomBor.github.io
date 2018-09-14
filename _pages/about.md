@@ -1,33 +1,11 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Contact
+subtitle:
+description: un projet à réaliser ?
+featured_image:
 ---
 
-![](/images/demo/demo-landscape.jpg)
+### Un projet à réaliser ? Besoin d'étoffer temporairement votre équipe' ? Envie de prendre contact ?
+Je suis disponible pour des missions freelance. Seul ou en équipe, je travaille dans des délais précis, alors écrivez moi :
 
-## Features
-
-We've packed Duet full of powerful features to help showcase your work:
-
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Duet
-
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://goo.gl/forms/zJST038HuX4NC22n1" class="button button--large">Formulaire de contact</a>
