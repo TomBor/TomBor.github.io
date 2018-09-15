@@ -50,7 +50,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'www.linkedin.com/in/thomas-ansart-82558b16b'
+  linkedin_url: 'https://www.linkedin.com/in/thomas-ansart-82558b16b/'
 
 color_settings:
   background_color: '#ffffff'
