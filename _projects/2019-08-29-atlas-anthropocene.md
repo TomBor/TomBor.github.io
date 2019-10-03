@@ -1,5 +1,5 @@
 ---
-title: 'Atlas de l'Anthropocène''
+title: 'Atlas de l’Anthropocène'
 subtitle: 'Atlas, print'
 date: 2019-08-29 00:00:00
 featured_image: '/images/projects/anthro-couv.jpg'
