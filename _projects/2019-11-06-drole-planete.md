@@ -12,10 +12,9 @@ Parution : novembre 2019
 
 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/projects/drole-planete-1.jpg">
 	<img src="/images/projects/drole-planete-2.jpg">
 	<img src="/images/projects/drole-planete-3.jpg">
-	<img src="/images/projects/drole-planete-4.jpg">
 	<img src="/images/projects/drole-planete-5.jpg">
 </div>
